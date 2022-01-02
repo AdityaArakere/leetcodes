@@ -10,3 +10,5 @@ class Solution:
                         return(i,j)
                         #temp1=[i,j]
         #return temp1
+
+print("program1 leetcode")
